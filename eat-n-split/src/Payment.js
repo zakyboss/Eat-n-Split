@@ -1,9 +1,11 @@
 import './index.css'
 import PaymentForm from './PaymentForm'
-export default function Payments(){
+export default function Payments({display}){
     return (
-        <div>
-            <PaymentForm/>
+        <div className='payment-content'>
+            {
+  display?<PaymentForm/>:''
+            }
         </div>
     )
 }
