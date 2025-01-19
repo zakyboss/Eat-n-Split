@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.item {
+  display: flex;
+  justify-content: center;
+}
+#image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px; /* Ensures the container is a perfect square */
+  object-fit: cover; /* Makes the image cover the entire container */
+  display: block;
+  optional: Ensures no extra space around the image;
+}
+#selectBtn {
+  height: 30px;
+  margin-top: 60px;
+  margin-left: 100px;
+  border: 8px;
+  background-color: rgb(233,456,326);
+
+}
