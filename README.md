@@ -15,13 +15,13 @@ This project is a simplified expense tracking and friend management app inspired
 Below are some screenshots of the application:
 
 1. **Friends List View**
-![Friends List](public/Screenshot1.png)
+![Friends List](eat-n-split/public/Screenshot1.png)
 
 2. **Add Friend Form**
-![Add Friend Form](public/Screenshot2.png)
+![Add Friend Form](eat-n-split/public/Screenshot2.png)
 
 3. **Split Bill Form**
-![Split Bill Form](public/Screenshot3.png)
+![Split Bill Form](eat-n-split/public/Screenshot3.png)
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zakyboss/Eat-n-Split.git
    ```
 
 2. Navigate to the project directory:
