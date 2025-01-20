@@ -127,7 +127,7 @@ code {
 }
 
 #deleteBtn:hover {
-  background: linear-gradient(135deg, rgb(221, 139, 32), rgb(255, 183, 77));
+  background: linear-gradient(135deg, rgb(182, 15, 15), rgb(219, 19, 45));
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
   transform: translateY(-2px);
 }
